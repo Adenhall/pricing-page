@@ -5,3 +5,26 @@
 .red {
   color: var(--red);
 }
+section {
+  padding-left: 250px;
+  padding-right: 250px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#first {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+img {
+  width: 150px;
+  height: auto;
+  align-self: center;
+}
+.col-auto {
+  padding-left: 0;
+}
+span {
+  color: gray;
+}
