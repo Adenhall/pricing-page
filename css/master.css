@@ -42,3 +42,10 @@ section {
   font-size: 25px;
   margin-bottom: 100px;
 }
+.credit {
+  display: flex;
+  justify-content: center;
+}
+.heart {
+  color: red;
+}
